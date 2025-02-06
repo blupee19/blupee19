@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blupee19
-- I’m a student of B.Tech (CSE with Gaming Specialization)
-- I'm a beginner and and I'm here to learn the ropes
+- I’m a student in my pre-final year pursuing B.Tech (CSE with Specialization in Gaming Technology)
+- I'm a beginner and I'm still to learning the ropes
 
 <!---
 blupee19/blupee19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
