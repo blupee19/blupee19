@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blupee19
-- I’m a student in my pre-final year pursuing B.Tech (CSE with Specialization in Gaming Technology)
+- I’m a student in my final year pursuing B.Tech (CSE with Specialization in Gaming Technology)
 - Always learning and increasing my skills everyday.
 
 <!---
