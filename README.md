@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Rachit Sharma
+# 👋 Hello there! I'm Rachit
 
 <a href="mailto:rachitsharma190904@gmail.com"><img src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
