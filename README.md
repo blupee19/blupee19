@@ -26,8 +26,9 @@ I'm a Game Developer and a Computer Science student at VIT Bhopal University, sp
 ### **Featured Projects**
 
 * **Scalvage (Unity/C#):** A 2D side-scroller with 3 levels and multiple enemy types, developed in 16 days for a game jam.
-* **Infinite Parkour Runner (Unreal):** A third-person endless runner with fluid mechanics like wall-running, sliding, and shooting.
-* **Sky Island Warfare (Unreal):** Co-developed a VR arcade flight prototype, leading level design and engineering a physics-based flying system.
+* **FlipShift (Unity/C#):** A 3D arcadey car racing platformer game with realistic car physics and platforming game mechanics.
+* **Traceur (Unreal/Bluperints):** A third-person endless runner with fluid mechanics like wall-running, sliding, and shooting.
+
 
 ---
 🎓 **B.Tech in CS (Gaming Technology)** @ **VIT Bhopal University** (2022-2026) | CGPA: 8.57
