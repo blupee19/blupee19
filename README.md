@@ -1,10 +1,5 @@
 # 👋 Hello there! I'm Rachit
 
-<a href="mailto:rachitsharma190904@gmail.com"><img src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=for-the-badge&logo=github"></a>
-<a href="https://your-itchio-username.itch.io/"><img src="https://img.shields.io/badge/Itch.io-My_Games-red?style=for-the-badge&logo=itch.io"></a>
-
 I'm a Game Developer and a Computer Science student at VIT Bhopal University, specializing in Gaming Technology. I enjoy building immersive games and solving complex design challenges.
 
 ---
